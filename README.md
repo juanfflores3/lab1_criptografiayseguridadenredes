@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Proyecto de Cifrado y Análisis con Wireshark
+# 🕵️‍♂️ Laboratorio 1 Criptografía y seguridad en redes: Cifrado y Análisis con Wireshark
 
 Este proyecto permite cifrar un mensaje utilizando el cifrado César, enviarlo mediante paquetes ICMP, capturarlos con Wireshark y luego descifrarlo a partir de los datos obtenidos.
 
